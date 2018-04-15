@@ -1,7 +1,5 @@
 package com.hepexta.core.cnst;
 
-import com.sun.deploy.util.StringUtils;
-
 /**
  * @author Sergei Kuznetsov
  */
